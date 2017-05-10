@@ -1,0 +1,13 @@
+Criar um projeto com JSP que tenha as seguintes caracteristicas e funcionalidades:
+
+
+BOOTSTRAP
+JDBC/MYSQL
+
+Tela de Login
+Usar sessoes
+Registrar em uma tabela de logs de acesso (login,SESSION_ID, data e hora), 
+caso login e senha seja corretas (testar via banco de dados)
+
+FONTES PESQUISADAS: http://www.lionblogger.com/simple-jsp-login-page-with-mysql/
+
